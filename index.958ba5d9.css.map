@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;;AAKA;;;;;AAKA","sources":["src/styles.css"],"sourcesContent":["rect:hover {\n    fill: blue !important;\n    opacity: 0.1;\n}\n\n.error, rect:hover.error  {\n    fill: red !important;\n    opacity: 0.1;\n}\n\n.correct, rect:hover.correct {\n    fill: green !important;\n    opacity: 0.1;\n}"],"names":[],"version":3,"file":"index.958ba5d9.css.map"}

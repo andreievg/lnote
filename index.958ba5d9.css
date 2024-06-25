@@ -1,0 +1,15 @@
+rect:hover {
+  opacity: .1;
+  fill: #00f !important;
+}
+
+.error, rect:hover.error {
+  opacity: .1;
+  fill: red !important;
+}
+
+.correct, rect:hover.correct {
+  opacity: .1;
+  fill: green !important;
+}
+/*# sourceMappingURL=index.958ba5d9.css.map */
